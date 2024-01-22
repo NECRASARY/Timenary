@@ -1,0 +1,6 @@
+framework module FlipLabel {
+  umbrella header "FlipLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

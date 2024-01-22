@@ -1,0 +1,6 @@
+framework module TableFlip {
+  umbrella header "TableFlip-umbrella.h"
+
+  export *
+  module * { export * }
+}

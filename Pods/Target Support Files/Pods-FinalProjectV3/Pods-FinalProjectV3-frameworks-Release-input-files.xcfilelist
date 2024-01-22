@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-FinalProjectV3/Pods-FinalProjectV3-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FlipLabel/FlipLabel.framework
+${BUILT_PRODUCTS_DIR}/GRDB.swift/GRDB.framework
+${BUILT_PRODUCTS_DIR}/TableFlip/TableFlip.framework
+${BUILT_PRODUCTS_DIR}/ViewAnimator/ViewAnimator.framework

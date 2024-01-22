@@ -1,0 +1,30 @@
+PODS:
+  - FlipLabel (1.0.1)
+  - GRDB.swift (6.3.0):
+    - GRDB.swift/standard (= 6.3.0)
+  - GRDB.swift/standard (6.3.0)
+  - TableFlip (1.3)
+  - ViewAnimator (3.1.0)
+
+DEPENDENCIES:
+  - FlipLabel
+  - GRDB.swift
+  - TableFlip
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - FlipLabel
+    - GRDB.swift
+    - TableFlip
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  FlipLabel: c2ca8fbbed924bc5e125478dd058d39325d79ae6
+  GRDB.swift: fb647d1be421b3da6c1a8cf515f9fa5610bb91dc
+  TableFlip: 2bd0375d9d0b29f7bbd500a236dba560a0e00618
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+
+PODFILE CHECKSUM: fd060ab58a156744356ec809600526c1da7a3471
+
+COCOAPODS: 1.11.3
